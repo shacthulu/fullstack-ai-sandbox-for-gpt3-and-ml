@@ -1,5 +1,5 @@
-> **Warning**
-> This is a historical snapshot of a sandbox used to POC, prototype, test and develop code to be cannalized elsewhere. It hasn't seen development since early 2023. Archiving project.
+> ![IMPORTANT]
+> This repo has not seen active development since early 2023.  This is a historical snapshot of a sandbox used to POC, prototype, test and develop code to be cannibalized elsewhere. Archiving project.
 
 # 2022/2023 ML and Generative AI Full-Stack App
 
